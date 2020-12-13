@@ -1,4 +1,4 @@
-const QUESTION_LENGTH = [7, 7, 6, 5];
+const QUESTION_LENGTH = [7, 7, 7, 6];
 
 const QUESTION_DICT = {
     Q00001: {
