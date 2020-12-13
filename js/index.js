@@ -2,7 +2,7 @@ const QUESTION_LENGTH = [7, 7, 6, 5];
 
 const QUESTION_DICT = {
     Q00001: {
-        img: '/img/apple.png',
+        img: '../img/apple.png',
         text: '이번 연말 꼭 하고 싶은 것은 무엇인가요?',
         answers: ['A00001', 'A00034', 'A00061', 'A00062'],
     },
